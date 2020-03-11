@@ -17,7 +17,7 @@ https://codepen.io/joeidelson/pen/XWbZmaw
     12. How many times can I use the same class on a page? As many times as you want
     13. How do I get my link to open in a new tab? <a href=""> </a>
     14. What is the alt attribute used for? It provides alternate information if the intended image can't be displayed.
-    15. How do I reference an id? #nameOfID
+    15. How do I reference an id? #nameOfID 
     16. What is the difference between a section and a div? A section defines bigger sections and a div is just to make divisions, so a div would be nested inside a section.
     17. What is CSS used for? To stylize HTML. It is the interior design of a webpage.
     18. How to we select an element? Example - every h2 on the page. You would select an element to stylize by typing, for example, h2{}
