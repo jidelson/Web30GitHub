@@ -1,5 +1,8 @@
 // Hi there! Working with git! Hello World!
 
+https://codepen.io/joeidelson/pen/XWbZmaw
+
+
 1. What is Semantic HTML? It is tags in HTML that are descriptive.
     2. What is HTML used for? It is used to make webpages. It is like the foundation of a house for a webpage.
     3. What is an attribute and where do we put it? They are words or commands that while used with opening and closing tags will control an element.
@@ -38,7 +41,7 @@ example of a good time to use a class would be if you were talking about drivers
     35. How often should I commit to github? A good standard is twenty minutes or anytime you complete something that functions.
     36. What is the command we would use to push our repo up to github? git push
     37. Walk me through Lambda's git flow. Fork your own repo, add your TL as a collaborator, clone your repo, go to command line and go to correct directory, use git clone <link-to-repo> , cd to new file, git checkout -b ' ' (here you are branching),
-now you work and complete your project on your repo, when ready you git add, git commit -m "message", git push -u origin branch-name, now you can submit a pull request.
+now you work and complete your project on your repo, when ready you git add ., git commit -m "message", git push -u origin branch-name, now you can submit a pull request.
 
 Stretch Questions
 
